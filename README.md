@@ -146,7 +146,7 @@ Fraud detection system that identifies high-risk behaviour, peak fraud hours (**
 I'm open to **data analyst roles, internships and collaboration** on data projects.
 
 <a href="mailto:marreboinarajesh@gmail.com"><img src="https://img.shields.io/badge/Email-marreboinarajesh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/rajesh-marreboina"><img src="https://img.shields.io/badge/LinkedIn-rajesh--marreboina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/rajesh-marreboina-948a18324"><img src="https://img.shields.io/badge/LinkedIn-rajesh--marreboina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/>
 
